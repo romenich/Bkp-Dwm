@@ -6,12 +6,12 @@ static const unsigned int gappx     = 5;        /* gaps between windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const char *fonts[]          = { "hack:size=11", "FontAwesome:size=10.5", };
+static const char *fonts[]          = { "hack:size=12", "FontAwesome:size=11.5", };
 static const char dmenufont[]       = "hack:size=12";
 static const char col_gray1[]       = "#2e3440";
 static const char col_gray2[]       = "#4c566a";
-static const char col_gray3[]       = "#bbbbbb"; 
-static const char col_gray4[]       = "#eeeeee"; 
+static const char col_gray3[]       = "#d8dee9"; 
+static const char col_gray4[]       = "#e5e9f0"; 
 static const char col_nord[]        = "#434c5e";
 static const char col_bor[]        = "#3b4252";
 static const char *colors[][3]      = {
